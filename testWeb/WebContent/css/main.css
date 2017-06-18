@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+#my-form{
+	width:400px;
+	margin:30px auto;
+}
+label.err{
+	display:none;
+	color:red;
+}
+img#validationOKImg{
+	width:30px;
+	higth:30px;
+	display:none;
+}
+img#validationErrImg{
+	width:30px;
+	higth:30px;
+	display:none;
+}
